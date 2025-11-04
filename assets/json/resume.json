@@ -1,0 +1,106 @@
+{
+    "resume": [
+        {
+            "title": "Summary",
+            "description": "I am a passionate web developer focused on building dynamic, user-centric applications. My journey in web development is driven by a fascination with technology's ability to solve real-world problems. I thrive on challenges and enjoy the process of creating applications that enhance user experiences.",
+            "bulletPoints": [
+                "Pokhara, Kaski, Gandaki, Nepal",
+                "+977 9819113548",
+                "timilsinasagar04@gmail.com",
+                "https://sagartimilsina.com.np/"
+            ]
+        },
+      
+        {
+            "title": "Professional Experience",
+            "description": "I have gained practical experience through internships and projects.",
+            "jobs": [
+                {
+                    "jobTitle": "Senior Full Stack Web Developer",
+                    "company": "XAV Technology",
+                    "date": "February 2025 - Present",
+                    "location": "Pokhara, Nepal",
+                    "bulletPoints": [
+                        "Leading the development of scalable web applications using modern technologies.",
+                        "Overseeing system architecture and implementing best coding practices to ensure maintainability.",
+                        "Collaborating with cross-functional teams, including UI/UX designers, backend developers, and project managers.",
+                        "Mentoring junior developers, conducting code reviews, and optimizing application performance.",
+                        "Integrating third-party APIs, security enhancements, and database optimizations for efficient system operations."
+                    ]
+                },
+                {
+                    "jobTitle": " Web Developer in PHP and Laravel",
+                    "company": "Tuki Soft Pvt. Ltd.",
+                    "date": "2024/02/19 - 2025/02/26",
+                    "location": "Sundar Marg 9, Pokhara, Nepal",
+                    "bulletPoints": [
+                        "Developed web applications using PHP and Laravel for various sectors, including government, corporate, and CRM systems.",
+                        "Collaborated with design teams to implement responsive UI and integrated external APIs such as Bunny Net, Stripe, and Zoom.",
+                        "Contributed to the development of a Learning Management System (LMS) to enhance e-learning experiences.",
+                        "Guided interns on coding best practices and provided QA support, ensuring bug-free applications.",
+                        "Assisted in creating security audit reports for government websites, ensuring compliance with security standards."
+                    ]
+                },
+                {
+                    "jobTitle": "Full Stack Web Developer in PHP Laravel (Intern)",
+                    "company": "XDezo Academy",
+                    "date": "July 2023 - Jan 2024",
+                    "location": "XDezo Technology, Ratna Chowk, Pokhara-7, Pokhara 33700, Nepal",
+                    "bulletPoints": [
+                        "Collaborated with a team of four developers to design and develop custom websites.",
+                        "Worked on three major projects, contributing to both frontend and backend development.",
+                        "Developed responsive UI using HTML, CSS, and JavaScript, ensuring user-friendly interfaces.",
+                        "Utilized PHP and Laravel for backend development, building efficient and scalable web applications.",
+                        "Participated in code competitions and  workshops, ensuring code quality and adherence to best practices."
+                    ]
+                },
+                {
+                    "jobTitle": "Operation Lead and College Representative (CR)",
+                    "company": "Code for Change Pokhara",
+                    "date": "2022 - 2024",
+                    "location": "Pokhara, Nepal",
+                    "bulletPoints": [
+                        "Served as College Representative (CR) and Operations Lead at Code for Change Pokhara, driving community engagement and event execution.",
+                        "Assisted in member recruitment, onboarding, and fostering student involvement in various initiatives.",
+                        "Planned, coordinated, and executed major events, workshops, and initiatives while ensuring cross-functional team collaboration.",
+                        "Managed event logistics, registrations, and outreach, ensuring smooth execution and evaluating outcomes.",
+                        "Contributed to reports and feedback collection, improving operations and aligning projects with the organization's goals."
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "Education",
+            "degrees": [
+                {
+                    "subtitle": "Bachelor in Computer Science and Information Technology (B.Sc.CSIT)",
+                    "description": "Currently pursuing a Bachelor's degree in B.Sc. CSIT at Prithvi Narayan Campus",
+                    "date": "April 2021 - Present",
+                    "location": "Bagar 1, Pokhara, Kaski, Gandaki, Nepal",
+                    "bulletPoints": []
+                },
+                {
+                    "subtitle": "+2 in Science (SLC)",
+                    "description": "Completed my high school education with a strong focus on science and mathematics.",
+                    "date": "August 2017 - July 2019",
+                    "location": "Pokhara, Kaski, Gandaki, Nepal",
+                    "bulletPoints": [
+                        "Achieved excellent grades in science and mathematics subjects.",
+                        "Participated in extracurricular activities.",
+                        "Developed critical thinking and analytical skills through various projects."
+                    ]
+                },
+                {
+                    "subtitle": "SEE",
+                    "description": "Completed my Secondary Education Examination (SEE).",
+                    "date": "April 2004 - July 2017",
+                    "location": "Pokhara, Kaski, Gandaki, Nepal",
+                    "bulletPoints": [
+                        "Achieved excellent grades in all subjects.",
+                        "Participated in school clubs and extracurricular activities."
+                    ]
+                }
+            ]
+        }
+    ]
+}

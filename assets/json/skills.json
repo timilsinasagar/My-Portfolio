@@ -1,0 +1,43 @@
+{
+    "skills": {
+        "title": "Skills",
+        "description": "I have a strong set of skills in web development, focusing on creating user-friendly applications. My expertise includes PHP (Laravel) for back-end development and HTML, CSS, and JavaScript for responsive front-end design. I am always eager to learn new technologies and improve my abilities to deliver effective solutions.",
+        "categories": [
+            {
+                "title": "Technical Skills",
+                "items": [
+                    "HTML",
+                    "CSS",
+                    "JavaScript",
+                    "Bootstrap",
+                    "PHP",
+                    "Laravel",
+                    "MySQL",
+                    "Git",
+                    "Ajax and Jquery",
+                    "React",
+                    "Python",
+                    "Flutter"
+                ]
+            },
+            {
+                "title": "Non Technical Skills",
+                "items": [
+                    "Leadership",
+                    "Team Management",
+                    "Communication",
+                    "Time Management",
+                    "Problem Solving"
+                ]
+            },
+            {
+                "title": "Languages",
+                "items": [
+                    "English",
+                    "Nepali",
+                    "Hindi"
+                ]
+            }
+        ]
+    }
+}
